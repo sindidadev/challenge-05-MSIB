@@ -30,8 +30,3 @@
 -Untuk membuka updateCarInformation : http://localhost:3000/updateCarInformation.html 
 -Untuk membuka data mobil : http://localhost:3000/notes 
 # Membuat sebuah HTTP SERVER sesuai dengan kaidah RESTful API
-
-
-# BELUM DIKERJAKAN:
--Tidak dapat memanajemen data mobil menggunakan browser, sesuai dengan desain yg tertera
--Tidak dapat upload foto mobil
